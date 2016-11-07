@@ -215,6 +215,10 @@ Bet on yourself section
     text-align: center;
 }
 
+.col-content-80 h1,p{
+    font-size: 3vw;
+}
+
 .bet-icon .icon-wrapper{
     margin: 0 auto;
     width: 50%;
